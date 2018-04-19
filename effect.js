@@ -162,7 +162,7 @@ $('document').ready(function(){
 	}
 
 	$('#present').click(function(){
-		window.location = 'http://localhost:8090';
+		window.location = 'https://presents-app.herokuapp.com/';
 	});
 
 });
